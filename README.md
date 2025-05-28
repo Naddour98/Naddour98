@@ -1,5 +1,8 @@
 # Hello 👋
 
+## This is a summary who I am in the world of data 🤓
+
+
 ### Where I was
 
 🐈 I stumbled upon data analysis in late 2023 when I was writing a paper for a course in my finance master's degree. I didn't know I was applying data analysis practices back then but I realized that I enjoyed inferring things from data and answering questions more than I enjoy working with financial data.
